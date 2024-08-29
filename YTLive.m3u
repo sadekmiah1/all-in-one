@@ -1,1 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live YouTube Channels</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        iframe {
+            border: none;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .channels {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            max-width: 1200px;
+            width: 100%;
+            padding: 0 10px;
+        }
+        .channel {
+            display: flex;
+            padding: 5px 10px 3px 10px;
+            background-color: #fff;
+            border-radius: 12px;
+            box-shadow: 0 3px 7px -3px rgba(0, 0, 0, 0.25);
+            cursor: pointer;
+            text-align: center;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        .channel:hover {
+            background-color: #e0e0e0;
+        }
+        .tv-image {
+            width: 80px;
+        }
+    </style>
+    <script>
+        function changeChannel(url) {
+            document.getElementById("videoFrame").src = url;
+        }
+    </script>
+</head>
+<body>
+    <iframe id="videoFrame" width="560" height="315" 
+        src="https://www.youtube.com/embed/aTzRun7M-fk?si=kcxC9DPQAtjyJZEM" 
+        title="YouTube video player" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+    </iframe>
+
+    <div class="channels">
+        <div class="channel" onclick="changeChannel('https://www.youtube.com/embed/uxl4uCyG6VM?si=aRnvYVZZ8PO4YVqx&autoplay=1')">
+            <img class="tv-image" src="https://ntvbd.com/sites/all/themes/sloth/logo.png">
+        </div>
+        <div class="channel" onclick="changeChannel('https://www.youtube.com/embed/HNbbzqtMNls?si=-vmAXnaOtv8QmsfC&autoplay=1')">
+            <img class="tv-image" src="https://i.postimg.cc/MKW1TbhM/Channel-I.png">
+        </div>
+        <div class="channel" onclick="changeChannel('https://www.youtube.com/embed/uxl4uCyG6VM?si=-vmAXnaOtv8QmsfC&autoplay=1')">
+            <img class="tv-image" src="https://www.ntvbd.com/sites/all/themes/sloth/logo.png">
+        </div>
+        <div class="channel" onclick="changeChannel('https://www.youtube.com/embed/BF98Pai9PR0?si=-vmAXnaOtv8QmsfC&autoplay=1')">
+            <img class="tv-image" src="https://www.rtvonline.com/templates/web-view/images/logo_new1.png">
+        </div>
+        <div class="channel" onclick="changeChannel('https://www.youtube.com/embed/aTzRun7M-fk?si=-vmAXnaOtv8QmsfC&autoplay=1')">
+            <img class="tv-image" src="https://www.somoynews.tv/icon.png">
+        </div>
+        <div class="channel" onclick="changeChannel('https://www.youtube.com/embed/DUwp2OLtz1U?si=-vmAXnaOtv8QmsfC&autoplay=1')">
+            <img class="tv-image" src="https://backoffice.channel24bd.tv/media/common/logo.png">
+        </div>
+        <div class="channel" onclick="changeChannel('https://www.youtube.com/embed/4A8Sb91THSM?si=-vmAXnaOtv8QmsfC&autoplay=1')">
+            <img class="tv-image" src="https://www.news24bd.tv/newDesktop/img/logo.png">
+        </div>
+        <div class="channel" onclick="changeChannel('https://www.youtube.com/embed/Rc13KtCBlHQ?si=-vmAXnaOtv8QmsfC&autoplay=1')">
+            <img class="tv-image" src="https://jamuna.tv/wp-content/themes/jtv-news/img/logo.png">
+        </div>
+        <div class="channel" onclick="changeChannel('https://www.youtube.com/embed/uaB3hnCucoU?si=-vmAXnaOtv8QmsfC&autoplay=1')">
+            <img class="tv-image" src="https://cdn.itvbd.net/contents/themes/public/style/images/logo.png">
+        </div>
+        <div class="channel" onclick="changeChannel('https://www.youtube.com/embed/bSNPPO-iUHo?si=-vmAXnaOtv8QmsfC&autoplay=1')">
+            <img class="tv-image" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg">
+        </div>
+        <div class="channel" onclick="changeChannel('https://www.youtube.com/embed/pBs7fqViwB0?si=-vmAXnaOtv8QmsfC&autoplay=1')">
+            <img class="tv-image" src="https://ekhon.tv/logo.png">
+        </div>
+        <div class="channel" onclick="changeChannel('https://www.youtube.com/embed/Qz0bCZXGBLg?si=HUPZcj9tHOauDuum&autoplay=1')">
+            <img class="tv-image" src="https://www.atnnewstv.com/assets/img/logo.png">
+        </div>
+    </div>
+</body>
+</html>
 
