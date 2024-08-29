@@ -32,7 +32,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk9KM2Lq/Independent.png" group-title="IPTV-1", Independent
 http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="IPTV-1", Channel I
-ttp://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqsjj9Zs/180px-ATN-Bangla-svg.png" group-title="IPTV-1", ATN Bangla
 http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/432mPk48/image.png" group-title="IPTV-1", Masranga
