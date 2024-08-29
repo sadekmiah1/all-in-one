@@ -1,43 +1,54 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV
-http://103.143.243.74/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z56Q3ppt/Sony-Sports-Ten-1.png" group-title="IPTV-1", Sony Sports Ten 1
-http://103.143.243.74/hls/sonyten1.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzhvcPYc/T-Sports.png" group-title="TV-1", T Sports
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z56Q3ppt/Sony-Sports-Ten-1.png" group-title="IPTV-1", Sony Sports Ten1
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wxP4G0kY/Sony-Sports-Ten-2.png" group-title="IPTV-1", Sony Sports Ten 2
-http://103.143.243.74/hls/sonyten2.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJDrxZg/Sony-Sports-Ten-3.png" group-title="IPTV-1", Sony Sports Ten 3
-http://103.143.243.74/hls/sonyten3.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYvd24k6/Sony-Sports-Ten-5.png" group-title="IPTV-1", Sony Sports Ten 5
-http://103.143.243.74/hls/sonysix.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Z5rW4dbm/sports18-edited.jpg" group-title="IPTV-1", Sports 18
-http://103.143.243.74/hls/18.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02wQX7qX/Star-Sports-1.png" group-title="IPTV-1", Star Sports 1
-http://103.143.243.74/hls/stersports1hd.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FK9HKqkw/Star-Sports-2.png" group-title="IPTV-1", Star Sports 2 
-http://103.143.243.74/hls/starsports2.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxp2xRKd/Star-Sports-3.png" group-title="IPTV-1", Star Sports 3
-http://103.143.243.74/hls/starsports3.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQB6G4X2/Star-Select-HD-1.png" group-title="IPTV-1", Star Sports Select 1
-http://103.143.243.74/hls/Star_Sport_Select1HD.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwCw86QZ/Star-Select-HD-2.png" group-title="IPTV-1", Star Sports Select 2
-http://103.143.243.74/hls/select2.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Lsx68kGc/PTV-Sports.png" group-title="IPTV-1", PTV Sports
-http://103.143.243.74/hls/ptv.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRcCFRnm/Somoy-TV.png" group-title="IPTV-1", Somoy TV
-http://103.143.243.74/hls/somoy.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk9KM2Lq/Independent.png" group-title="IPTV-1", Independent
-http://103.143.243.74/hls/indepen.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="IPTV-1", Channel I
-http://103.143.243.74/hls/channeli.m3u8
+ttp://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqsjj9Zs/180px-ATN-Bangla-svg.png" group-title="IPTV-1", ATN Bangla
-http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/432mPk48/image.png" group-title="IPTV-1", Masranga
-http://103.143.243.74/hls/masranga.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Massranga/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZYTsmq1/Jamuna-TV.png" group-title="IPTV-1", Jamuna TV
-http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh7Tp0FV/Bangla-Vision.png" group-title="IPTV-1", Bangla Vision
-http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6V4vKNz/300px-svg.png" group-title="IPTV-1", Boishakhi TV
+https://livess.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLxV4Zt4/image.png" group-title="IPTV-1", Channel 24
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYmp2HJT/220px-svg.png" group-title="IPTV-1", BTV
+http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htdBwk0y/image.png" group-title="IPTV-1", BTV WORLD
+http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv9kBsrP/Sony-Aath.png" group-title="IPTV-1", Sony Aath
 http://103.143.243.74/hls/Sony_Aath.m3u8
