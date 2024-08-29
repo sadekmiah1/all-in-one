@@ -1,1 +1,15 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxk9rSs/BBC-World.png" group-title="IPTV-1", BBC World
+http://103.143.243.74/hls/bbcworld.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJz1Gjw9/Sony-Pix.png" group-title="IPTV-1", Sony Pix HD
+http://103.143.243.74/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1k4KTmm/Star-Movies.png" group-title="IPTV-1", Star Movies
+http://103.143.243.74/hls/starmovies.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t524gR6/MNX.png" group-title="IPTV-1", MNX HD
+http://103.143.243.74/hls/mnx-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhgfRRbc/MN-HD.png" group-title="IPTV-1", MN+ HD
+http://103.143.243.74/hls/mn+.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90FkFZ5n/Romedy-Now.png" group-title="IPTV-1", Romedy Now
+http://103.143.243.74/hls/star-worldhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vT3pWXty/Movies-Now-HD.png" group-title="IPTV-1", Movies Now HD
+http://103.143.243.74/hls/movies-now.m3u8
