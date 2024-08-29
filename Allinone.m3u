@@ -1,7 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="" group-title="IPTV-1", Skynet
-http://tv.skynet.com.bd/hls/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV
 http://103.143.243.74/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z56Q3ppt/Sony-Sports-Ten-1.png" group-title="IPTV-1", Sony Sports Ten 1
@@ -33,9 +30,9 @@ http://103.143.243.74/hls/somoy.m3u8
 http://103.143.243.74/hls/indepen.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="IPTV-1", Channel I
 http://103.143.243.74/hls/channeli.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjnthhbk/ATN-Bangla.png" group-title="IPTV-1", ATN Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqsjj9Zs/180px-ATN-Bangla-svg.png" group-title="IPTV-1", ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xz5xtjt/Maasranga-TV.png" group-title="IPTV-1", Masranga
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/432mPk48/image.png" group-title="IPTV-1", Masranga
 http://103.143.243.74/hls/masranga.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZYTsmq1/Jamuna-TV.png" group-title="IPTV-1", Jamuna TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
