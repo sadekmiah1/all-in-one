@@ -1,1 +1,5 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QXx4KmT/Sony-Yay.png" group-title="IPTV-1", Sony YaY!
+http://103.143.243.74/hls/sonyway.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp3wM9xr/Nick.png" group-title="IPTV-1", Nick
+http://103.143.243.74/hls/nick.m3u8
