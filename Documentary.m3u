@@ -1,1 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tvZQ5Dv/Animal-Planet.png" group-title="IPTV-1", Animal Planet HD
+http://103.143.243.74/hls/animalplanent.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGMZH0GF/Discovery.png" group-title="IPTV-1", Discovery HD
+http://103.143.243.74/hls/discovery.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgV1mgG/Net-Geo.png" group-title="IPTV-1", Nat Geo HD
+http://103.143.243.74/hls/ngohd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzf9HtQT/Net-Geo-Wild.png" group-title="IPTV-1", Nat Geo Wild
+http://103.143.243.74/hls/wild.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfSJ896x/Travel-XP.png" group-title="IPTV-1", Travel XP
+http://103.143.243.74/hls/travelxp.m3u8
 
