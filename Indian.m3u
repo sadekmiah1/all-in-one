@@ -1,1 +1,19 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4y2JFtM/Sony-TV.png" group-title="IPTV-1", Sony HD
+http://103.143.243.74/hls/sonyen.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdft23qj/Sony-Max.png" group-title="IPTV-1", Sony Max HD
+http://103.143.243.74/hls/sony-maxhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtVdGYCq/Zee-TV.png" group-title="IPTV-1", Zee TV
+http://103.143.243.74/hls/zeetv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMFFxshy/Zee-Cinema-HD.png" group-title="IPTV-1", Zee Cinema
+http://103.143.243.74/hls/zeecinemahd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbkGcp7/Star-Plus-HD.png" group-title="IPTV-1", Star Plus HD
+http://103.143.243.74/hls/starplus.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqpNzrmq/Colors-HD.png" group-title="IPTV-1", Colors HD
+http://103.143.243.74/hls/colore-tv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnMwbQLW/Colors-Cineplex-HD.png" group-title="IPTV-1", Colors Cineplex HD
+http://103.143.243.74/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SBbn4Vx/Picture.png" group-title="IPTV-1", &Pictures HD
+http://103.143.243.74/hls/andpictures.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1JhMpnW/Star-Gold.png" group-title="IPTV-1", Star Gold
+http://103.143.243.74/hls/stargold.m3u8
