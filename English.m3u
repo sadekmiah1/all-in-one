@@ -1,15 +1,16 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxk9rSs/BBC-World.png" group-title="IPTV-1", BBC World
-http://103.143.243.74/hls/bbcworld.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJz1Gjw9/Sony-Pix.png" group-title="IPTV-1", Sony Pix HD
-http://103.143.243.74/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1k4KTmm/Star-Movies.png" group-title="IPTV-1", Star Movies
-http://103.143.243.74/hls/starmovies.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t524gR6/MNX.png" group-title="IPTV-1", MNX HD
-http://103.143.243.74/hls/mnx-hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhgfRRbc/MN-HD.png" group-title="IPTV-1", MN+ HD
-http://103.143.243.74/hls/mn+.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/90FkFZ5n/Romedy-Now.png" group-title="IPTV-1", Romedy Now
-http://103.143.243.74/hls/star-worldhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vT3pWXty/Movies-Now-HD.png" group-title="IPTV-1", Movies Now HD
-http://103.143.243.74/hls/movies-now.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg",ACCU WEATHER
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",AlJazeera English
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1 group-title="Arabic" tvg-logo="https://i.imgur.com/TMg4Kxi.png",Alb UKTV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/wgIUsFu.png",BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="YOUTUBE  CHANNELS" tvg-logo="https://i.ibb.co/XzP9JK8/IMG-20240126-113020.png",Nexus TV
+https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
