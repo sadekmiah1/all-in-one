@@ -1,6 +1,8 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyYZr36S/Quran-TV.png" group-title="IPTV-1", Quran TV
-http://103.143.243.74/hls/qurqntv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK1mYbjx/Madani-Chennel.png" group-title="IPTV-1", Madani Chennel
-http://103.143.243.74/hls/madani.m3u8
-
+#EXTINF:-1 group-title="RELIGION CHANNELS" tvg-logo="https://iqra.tv/wp-content/uploads/2022/07/Iqra-Logo-PNG.jpg",IQRA BANGLA
+http://208.86.19.13:81/507.stream/index.m3u8
+#EXTINF:-1 group-title="RELIGION CHANNELS" tvg-logo="https://iqra.tv/wp-content/uploads/2022/07/Iqra-Logo-PNG.jpg",IQRA BANGLA
+https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION CHANNELS" tvg-logo="https://i.ibb.co/3YdcbgR/Picsart-23-06-27-22-56-51-911.png",SUNNAH TV
+http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
+#EXTINF:-1 group-title="RELIGION CHANNELS" tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png",MADANI BANGLA
+https://cloudflare2.iftyer23.workers.dev/c/@MadaniChannelBanglaLive.m3u8
