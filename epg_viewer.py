@@ -15,20 +15,16 @@ def fetch_epg_data(url):
         print(f"Error fetching EPG data: {e}")
         return None
 
-def display_epg_data(epg_data):
-    """Displays the program titles and their start times."""
-    if not epg_data:
-        print("No EPG data available.")
-        return
-
-    # Display channel information
+def display_channels(channels):
+    """Displays the channel information."""
     print("Channels:")
-    for channel in epg_data.get('channels', []):
+    for channel in channels:
         print(f"ID: {channel['id']}, Name: {channel['name']}")
 
-    # Display program information
+def display_programmes(programmes):
+    """Displays the program titles and their start times."""
     print("\nPrograms:")
-    for programme in epg_data.get('programmes', []):
+    for programme in programmes:
         start_time = datetime.fromisoformat(programme['start'].replace('Z', '+00:00')).strftime('%Y-%m-%d %H:%M:%S')
         end_time = datetime.fromisoformat(programme['end'].replace('Z', '+00:00')).strftime('%Y-%m-%d %H:%M:%S')
         print(f"Title: {programme['title']}")
@@ -40,7 +36,9 @@ def display_epg_data(epg_data):
 def main():
     """Main function to fetch and display EPG data."""
     epg_data = fetch_epg_data(epg_url)
-    display_epg_data(epg_data)
+    if epg_data:
+        display_channels(epg_data.get('channels', []))
+        display_programmes(epg_data.get('programmes', []))
 
 if __name__ == "__main__":
     main()
