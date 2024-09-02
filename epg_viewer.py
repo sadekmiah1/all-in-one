@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 
 # Replace this URL with the actual URL of your EPG JSON file
-epg_url = 'https://raw.githubusercontent.com/example/epg-data/main/epg.json'
+epg_url = 'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/epg.json'
 
 def fetch_epg_data(url):
     """Fetches EPG data from the given URL and returns it as a Python dictionary."""
