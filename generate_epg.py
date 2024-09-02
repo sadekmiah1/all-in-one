@@ -1,8 +1,11 @@
 import requests
 import json
 
-# URL of the M3U playlist
-m3u_url = 'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/Allchannel2.m3u'
+# List of M3U playlist URLs
+m3u_urls = [
+    'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/Allchannel1.m3u',
+    'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/Allchannel2.m3u'
+]
 
 def download_m3u(m3u_url):
     """Download the M3U file from the provided URL."""
@@ -45,18 +48,27 @@ def parse_m3u(lines):
 
 def save_json(epg_data, filename='epg.json'):
     """Save the EPG data to a JSON file."""
-    with open(filename, 'epg.json) as json_file:
+    with open(filename, 'w') as json_file:
         json.dump(epg_data, json_file, indent=4)
 
 def main():
     """Main function to execute the script."""
-    m3u_lines = download_m3u(m3u_url)
-    channels, programs = parse_m3u(m3u_lines)
+    all_channels = []
+    all_programs = []
+
+    for m3u_url in m3u_urls:
+        print(f"Processing {m3u_url}...")
+        m3u_lines = download_m3u(m3u_url)
+        channels, programs = parse_m3u(m3u_lines)
+        
+        # Add channels and programs to the combined lists
+        all_channels.extend(channels)
+        all_programs.extend(programs)
     
     # Create the EPG JSON structure
     epg_data = {
-        "channels": channels,
-        "programs": programs
+        "channels": all_channels,
+        "programs": all_programs
     }
     
     save_json(epg_data)
