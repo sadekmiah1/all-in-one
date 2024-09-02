@@ -45,7 +45,7 @@ def parse_m3u(lines):
 
 def save_json(epg_data, filename='epg.json'):
     """Save the EPG data to a JSON file."""
-    with open(filename, 'w') as json_file:
+    with open(filename, 'epg.json) as json_file:
         json.dump(epg_data, json_file, indent=4)
 
 def main():
