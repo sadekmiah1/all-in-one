@@ -4,7 +4,16 @@ import json
 # List of M3U playlist URLs
 m3u_urls = [
     'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/Allchannel1.m3u',
-    'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/Allchannel2.m3u'
+    'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/Allchannel2.m3u',
+    'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/Bangla.m3u',
+    'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/IndianBangla.m3u',
+    'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/Indian.m3u',
+    'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/Sports.m3u',
+    'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/Cartoon.m3u',
+    'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/Documentary.m3u',
+    'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/English.m3u',
+    'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/Music.m3u',
+    'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/Islamic.m3u',
 ]
 
 def download_m3u(m3u_url):
