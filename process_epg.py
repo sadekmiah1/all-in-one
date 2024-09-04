@@ -1,6 +1,6 @@
 import json
 
-def read_epg_file(file_path): 
+def read_epg_file(file_path): 'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/epg.json'
     """Reads and processes an EPG JSON file."""
     try:
         # Open and read the JSON file
