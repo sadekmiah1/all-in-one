@@ -1,7 +1,7 @@
 import requests
 import json
 
-def download_m3u(m3u_url):
+def download_m3u(m3u_url): 'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/epg.json'
     """Download the M3U file from the provided URL."""
     response = requests.get(m3u_url)
     response.raise_for_status()  # Check if the request was successful
