@@ -1,0 +1,429 @@
+{
+    "channels": [
+        {
+            "id": "GTV",
+            "name": "GTV",
+            "logo": "https://i.postimg.cc/hGR81WXv/GTV.png"
+        },
+        {
+            "id": "Somoy TV",
+            "name": "Somoy TV",
+            "logo": "http://example.com/logo2.png"
+        }
+        {
+            "id": "Independent",
+            "name": "Independent",
+            "logo": "https://i.postimg.cc/Hk9KM2Lq/Independent.png"
+        }
+        {
+            "id": "Channel I",
+            "name": "Channel I",
+            "logo": "https://i.postimg.cc/MKW1TbhM/Channel-I.png"
+        }
+        {
+            "id": "ATN Bangla",
+            "name": "ATN Bangla",
+            "logo": "https://i.postimg.cc/Xqsjj9Zs/180px-ATN-Bangla-svg.png"
+        }
+        {
+            "id": "Masranga",
+            "name": "Masranga",
+            "logo": "https://i.postimg.cc/432mPk48/image.png"
+        }
+        {
+            "id": "Jamuna TV",
+            "name": "Jamuna TV",
+            "logo": "https://i.postimg.cc/7ZYTsmq1/Jamuna-TV.png"
+        }
+        {
+            "id": "Bangla Vision",
+            "name": "Bangla Vision",
+            "logo": "https://i.postimg.cc/Gh7Tp0FV/Bangla-Vision.png"
+        }
+        {
+            "id": "Boishakhi TV",
+            "name": "Boishakhi TV",
+            "logo": "https://i.postimg.cc/L6V4vKNz/300px-svg.png"
+        }
+        {
+            "id": "Channel 24",
+            "name": "Channel 24",
+            "logo": "https://i.postimg.cc/CLxV4Zt4/image.png"
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+        {
+            "id": "",
+            "name": "",
+            "logo": ""
+        }
+    ]
+}
