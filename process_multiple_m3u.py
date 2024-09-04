@@ -1,6 +1,7 @@
 import requests
 
 def download_file(url, filename):
+    """Download a file from a URL and save it locally."""
     response = requests.get(url)
     response.raise_for_status()  # Ensure the request was successful
     with open(filename, 'wb') as file:
@@ -8,6 +9,7 @@ def download_file(url, filename):
     print(f"File saved as {filename}")
 
 def parse_m3u_file(filename):
+    """Parse the M3U file to extract channel information."""
     channels = []
     with open(filename, 'r') as file:
         lines = file.readlines()
@@ -27,19 +29,29 @@ def parse_m3u_file(filename):
                 })
     return channels
 
+def process_m3u_files(urls):
+    """Process multiple M3U files from the given URLs."""
+    all_channels = []
+    for url in urls:
+        local_filename = url.split('/')[-1]  # Extract the file name from URL
+        download_file(url, local_filename)
+        channels = parse_m3u_file(local_filename)
+        all_channels.extend(channels)
+    return all_channels
+
 def main():
-    # URL to the M3U file
-    m3u_url = 'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/Allchannel1.m3u'
+    # List of M3U file URLs
+    m3u_urls = [
+        'https://raw.githubusercontent.com/sadekmiah1/all-in-one/main/Allchannel1.m3u',
+        'https://example.com/path/to/anotherfile.m3u',
+        # Add more URLs here
+    ]
     
-    # Download the M3U file
-    local_filename = 'Allchannel1.m3u'
-    download_file(m3u_url, local_filename)
-    
-    # Parse the M3U file
-    channels = parse_m3u_file(local_filename)
+    # Process all M3U files
+    all_channels = process_m3u_files(m3u_urls)
     
     # Print channel information
-    for channel in channels:
+    for channel in all_channels:
         print(f"Name: {channel['name']}, URL: {channel['url']}")
 
 if __name__ == '__main__':
