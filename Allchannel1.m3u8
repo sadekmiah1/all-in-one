@@ -1,8 +1,13 @@
-#EXTM3U
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-TARGETDURATION:5 
+#EXT-X-MEDIA-SEQUENCE:0
+
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 #EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=3840x2160
 #EXT-X-STREAM-INF:BANDWIDTH=20000000,RESOLUTION=7680x4320
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzhvcPYc/T-Sports.png" group-title="TV-1", T Sports
@@ -181,3 +186,4 @@ http://103.143.243.74/hls/sangeetbangla.m3u8
 http://103.143.243.74/hls/qurqntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK1mYbjx/Madani-Chennel.png" group-title="IPTV-1", Madani Chennel
 http://103.143.243.74/hls/madani.m3u8
+#EXT-X-ENDLIST
