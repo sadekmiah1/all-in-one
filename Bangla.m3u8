@@ -1,16 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRcCFRnm/Somoy-TV.png" group-title="IPTV-1", Somoy TV
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
-http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=3840x2160
-http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=20000000,RESOLUTION=7680x4320
 http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk9KM2Lq/Independent.png" group-title="IPTV-1", Independent
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
-http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=3840x2160
-http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=20000000,RESOLUTION=7680x4320
 http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="IPTV-1", Channel I
