@@ -1,8 +1,13 @@
-#EXTM3U
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:0
+
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 #EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=3840x2160
 #EXT-X-STREAM-INF:BANDWIDTH=20000000,RESOLUTION=7680x4320
+
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png", SOMOY TV
 https://www.youtube.com/watch?v=xEl7I8pN-C0?si=ZYZBg47xRsUonlZ7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png", INDEPENDENT TV
@@ -33,4 +38,4 @@ https://www.youtube.com/watch?v=8aApFBmEJV0?si=Upyj9Hffg86mPhml
 https://www.youtube.com/watch?v=rekNqYolSyw?si=QMH6jD_vdkh9woHj
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png", GAAN BANGLA
 https://www.youtube.com/watch?v=UCQE1lrNtxcz0Na4F0afHrPw
-
+#EXT-X-ENDLIST
