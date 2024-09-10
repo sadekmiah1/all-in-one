@@ -1,8 +1,13 @@
-#EXTM3U
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:0
+
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 #EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=3840x2160
 #EXT-X-STREAM-INF:BANDWIDTH=20000000,RESOLUTION=7680x4320
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzhvcPYc/T-Sports.png" group-title="TV-1", T Sports
@@ -31,3 +36,4 @@ http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg",DUBAI SPORTS HD
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXT-X-ENDLIST
