@@ -1,8 +1,13 @@
-#EXTM3U
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:0
+
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 #EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=3840x2160
 #EXT-X-STREAM-INF:BANDWIDTH=20000000,RESOLUTION=7680x4320
+
 #EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Zee_TV_HD_2017.svg/revision/latest/scale-to-width-down/250?cb=20210514173308",ZEE TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8
 #EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png",ZEE ANMOL
@@ -43,3 +48,4 @@ https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa4
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 group-title="MOVIES CHANNELS" tvg-logo="https://i.ibb.co/rdZ16x7/Picsart-23-07-16-01-35-39-866.png",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXT-X-ENDLIST
