@@ -1,4 +1,8 @@
-#EXTM3U
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:0
+
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 #EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=3840x2160
@@ -11,3 +15,4 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Ariana_television_logo.png",ATN AFGHANISTAN
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXT-X-ENDLIST
