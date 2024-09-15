@@ -1,7 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3 
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:0
 
 #EXT-X-STREAM-INF:BANDWIDTH=300000,RESOLUTION=640x360
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
@@ -252,6 +249,6 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 #EXTINF:-1,112.Al Jazeera English
 http://51.154.28.81:2052/play/a089
-#EXT-X-ENDLIST
+
 
 
