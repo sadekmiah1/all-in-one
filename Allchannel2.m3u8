@@ -1,7 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3 
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:0
 
 #EXT-X-STREAM-INF:BANDWIDTH=300000,RESOLUTION=640x360
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
@@ -388,4 +385,4 @@ https://moviesphere-roku.amagi.tv/playlist.m3u8
 http://cdn2.connectbr.com.br/mtv/index.m3u8
 #EXTINF:-1 tvg-logo="", FOX SPORTS 3 (VN)
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
-#EXT-X-ENDLIST
+
