@@ -1,8 +1,4 @@
 #EXTM3U 
-#EXT-X-VERSION:3 
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:0
-
 #EXT-X-STREAM-INF:BANDWIDTH=300000,RESOLUTION=640x360
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
@@ -38,4 +34,4 @@ http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg",DUBAI SPORTS HD
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXT-X-ENDLIST
+
