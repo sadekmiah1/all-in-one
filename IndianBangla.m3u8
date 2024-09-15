@@ -1,8 +1,4 @@
 #EXTM3U 
-#EXT-X-VERSION:3 
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:0
-
 #EXT-X-STREAM-INF:BANDWIDTH=300000,RESOLUTION=640x360
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
@@ -29,5 +25,5 @@ http://103.143.243.74/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtpDWpzN/Enterr10.png" group-title="IPTV-1", Enterr10
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
-#EXT-X-ENDLIST
+
 
