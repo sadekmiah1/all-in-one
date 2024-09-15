@@ -1,8 +1,4 @@
 #EXTM3U 
-#EXT-X-VERSION:3 
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:0
-
 #EXT-X-STREAM-INF:BANDWIDTH=300000,RESOLUTION=640x360
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
@@ -40,4 +36,4 @@ https://www.youtube.com/watch?v=8aApFBmEJV0?si=Upyj9Hffg86mPhml
 https://www.youtube.com/watch?v=rekNqYolSyw?si=QMH6jD_vdkh9woHj
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png", GAAN BANGLA
 https://www.youtube.com/watch?v=UCQE1lrNtxcz0Na4F0afHrPw
-#EXT-X-ENDLIST
+
