@@ -95,90 +95,90 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8?v=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXhm8JpD/image.png" group-title="IPTV-1", SA TV
 http://tv.dugdugilive.com:8080/0ne$ky23/satv/tracks-v1a1/mono.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvR2Kxfz/180px-svg.png" group-title="IPTV-1", Songsod TV
-http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT0PnL5x/220px.png" group-title="IPTV-1", Ehkon TV
-https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/playlist.m3u8
+https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/playlist.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp931QGJ/100px-svg.png" group-title="IPTV-1", ATN News
-http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3wkJM2M/200px-svg.png" group-title="IPTV-1", G TV
-http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58KJbk.png" group-title="IPTV-1", Deshi TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8?v=1
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv9kBsrP/Sony-Aath.png" group-title="IPTV-1", Sony Aath
-http://103.143.243.74/hls/Sony_Aath.m3u8
+http://103.143.243.74/hls/Sony_Aath.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v2PQKX/Zee-Bangla-HD.png" group-title="IPTV-1", Zee Bangla HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4xcPv5j/Colors-Bangla-HD.png" group-title="IPTV-1", Colors Bangla HD
-https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnq89LL/Star-Jalsha.png" group-title="IPTV-1", Star Jalsha 
 http://217.20.112.199/starjalshahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8ctyNdTW/Zee-Bangla-Cinema.png" group-title="IPTV-1", Zee Bangla Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZjgSZxP/Jalsha-Movies-HD.png" group-title="IPTV-1", Jalsha Movies HD
-http://tv.cloudcdn.me/live.ts?channelId=117&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNzzwJ9R/Colors-Bangla-Cinema.png" group-title="IPTV-1", Colores Bangla Cinema
-http://103.143.243.74/hls/colore-bangla-cinema.m3u8
+http://103.143.243.74/hls/colore-bangla-cinema.m3u8?v=1
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/BQ36Nv5w/Sun-Bangla.png" group-title="IPTV-1", Sun Bangla
-http://103.143.243.74/hls/sunbangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtpDWpzN/Enterr10.png" group-title="IPTV-1", Enterr10
+http://103.143.243.74/hls/sunbangla.m3u8?v=1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtpDWpzN/Enterr10.png" group-title="IPTV-1", Enterr10?v=1
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJz1Gjw9/Sony-Pix.png" group-title="IPTV-1", Sony Pix HD
-http://103.143.243.74/hls/sonypixhd.m3u8
+http://103.143.243.74/hls/sonypixhd.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1k4KTmm/Star-Movies.png" group-title="IPTV-1", Star Movies
 http://103.143.243.74/hls/starmovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5t524gR6/MNX.png" group-title="IPTV-1", MNX HD
-http://103.143.243.74/hls/mnx-hd.m3u8
+http://103.143.243.74/hls/mnx-hd.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhgfRRbc/MN-HD.png" group-title="IPTV-1", MN+ HD
-http://103.143.243.74/hls/mn+.m3u8
+http://103.143.243.74/hls/mn+.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90FkFZ5n/Romedy-Now.png" group-title="IPTV-1", Romedy Now
-http://103.143.243.74/hls/star-worldhd.m3u8
+http://103.143.243.74/hls/star-worldhd.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vT3pWXty/Movies-Now-HD.png" group-title="IPTV-1", Movies Now HD
-http://103.143.243.74/hls/movies-now.m3u8
+http://103.143.243.74/hls/movies-now.m3u8?v=1
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4y2JFtM/Sony-TV.png" group-title="IPTV-1", Sony HD
-http://103.143.243.74/hls/sonyen.m3u8
+http://103.143.243.74/hls/sonyen.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdft23qj/Sony-Max.png" group-title="IPTV-1", Sony Max HD
-http://103.143.243.74/hls/sony-maxhd.m3u8
+http://103.143.243.74/hls/sony-maxhd.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtVdGYCq/Zee-TV.png" group-title="IPTV-1", Zee TV
-http://103.143.243.74/hls/zeetv.m3u8
+http://103.143.243.74/hls/zeetv.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMFFxshy/Zee-Cinema-HD.png" group-title="IPTV-1", Zee Cinema
-http://103.143.243.74/hls/zeecinemahd.m3u8
+http://103.143.243.74/hls/zeecinemahd.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbkGcp7/Star-Plus-HD.png" group-title="IPTV-1", Star Plus HD
-http://103.143.243.74/hls/starplus.m3u8
+http://103.143.243.74/hls/starplus.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqpNzrmq/Colors-HD.png" group-title="IPTV-1", Colors HD
-http://103.143.243.74/hls/colore-tv-hd.m3u8
+http://103.143.243.74/hls/colore-tv-hd.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnMwbQLW/Colors-Cineplex-HD.png" group-title="IPTV-1", Colors Cineplex HD
-http://103.143.243.74/hls/colorscineplex.m3u8
+http://103.143.243.74/hls/colorscineplex.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SBbn4Vx/Picture.png" group-title="IPTV-1", &Pictures HD
-http://103.143.243.74/hls/andpictures.m3u8
+http://103.143.243.74/hls/andpictures.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1JhMpnW/Star-Gold.png" group-title="IPTV-1", Star Gold
-http://103.143.243.74/hls/stargold.m3u8
+http://103.143.243.74/hls/stargold.m3u8?v=1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QXx4KmT/Sony-Yay.png" group-title="IPTV-1", Sony YaY!
-http://103.143.243.74/hls/sonyway.m3u8
+http://103.143.243.74/hls/sonyway.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp3wM9xr/Nick.png" group-title="IPTV-1", Nick
-http://103.143.243.74/hls/nick.m3u8
+http://103.143.243.74/hls/nick.m3u8?v=1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tvZQ5Dv/Animal-Planet.png" group-title="IPTV-1", Animal Planet HD
-http://103.143.243.74/hls/animalplanent.m3u8
+http://103.143.243.74/hls/animalplanent.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGMZH0GF/Discovery.png" group-title="IPTV-1", Discovery HD
-http://103.143.243.74/hls/discovery.m3u8
+http://103.143.243.74/hls/discovery.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgV1mgG/Net-Geo.png" group-title="IPTV-1", Nat Geo HD
-http://103.143.243.74/hls/ngohd.m3u8
+http://103.143.243.74/hls/ngohd.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzf9HtQT/Net-Geo-Wild.png" group-title="IPTV-1", Nat Geo Wild
-http://103.143.243.74/hls/wild.m3u8
+http://103.143.243.74/hls/wild.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfSJ896x/Travel-XP.png" group-title="IPTV-1", Travel XP
-http://103.143.243.74/hls/travelxp.m3u8
+http://103.143.243.74/hls/travelxp.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxk9rSs/BBC-World.png" group-title="IPTV-1", BBC World
-http://103.143.243.74/hls/bbcworld.m3u8
+http://103.143.243.74/hls/bbcworld.m3u8?v=1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8zs2PvC/9xm.png" group-title="IPTV-1", 9xm
-http://103.143.243.74/hls/9xm.m3u8
+http://103.143.243.74/hls/9xm.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxgV53kT/S-Bangla.png" group-title="IPTV-1", Sangeet Bangla
 http://103.143.243.74/hls/sangeetbangla.m3u8
 
