@@ -1,33 +1,7 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=854x480
-#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV
-http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzhvcPYc/T-Sports.png" group-title="TV-1", T Sports
-http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z56Q3ppt/Sony-Sports-Ten-1.png" group-title="IPTV-1", Sony Sports Ten1
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxP4G0kY/Sony-Sports-Ten-2.png" group-title="IPTV-1", Sony Sports Ten 2
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJDrxZg/Sony-Sports-Ten-3.png" group-title="IPTV-1", Sony Sports Ten 3
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYvd24k6/Sony-Sports-Ten-5.png" group-title="IPTV-1", Sony Sports Ten 5
-http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Z5rW4dbm/sports18-edited.jpg" group-title="IPTV-1", Sports 18
-http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02wQX7qX/Star-Sports-1.png" group-title="IPTV-1", Star Sports 1
-http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FK9HKqkw/Star-Sports-2.png" group-title="IPTV-1", Star Sports 2 
-http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxp2xRKd/Star-Sports-3.png" group-title="IPTV-1", Star Sports 3
-http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQB6G4X2/Star-Select-HD-1.png" group-title="IPTV-1", Star Sports Select 1
-http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwCw86QZ/Star-Select-HD-2.png" group-title="IPTV-1", Star Sports Select 2
-http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Lsx68kGc/PTV-Sports.png" group-title="IPTV-1", PTV Sports
-http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=854x480
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRcCFRnm/Somoy-TV.png" group-title="IPTV-1", Somoy TV
 http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk9KM2Lq/Independent.png" group-title="IPTV-1", Independent
