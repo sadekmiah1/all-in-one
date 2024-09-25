@@ -2,72 +2,95 @@
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=854x480
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV
+http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzhvcPYc/T-Sports.png" group-title="TV-1", T Sports
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z56Q3ppt/Sony-Sports-Ten-1.png" group-title="IPTV-1", Sony Sports Ten1
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxP4G0kY/Sony-Sports-Ten-2.png" group-title="IPTV-1", Sony Sports Ten 2
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJDrxZg/Sony-Sports-Ten-3.png" group-title="IPTV-1", Sony Sports Ten 3
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYvd24k6/Sony-Sports-Ten-5.png" group-title="IPTV-1", Sony Sports Ten 5
+http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Z5rW4dbm/sports18-edited.jpg" group-title="IPTV-1", Sports 18
+http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02wQX7qX/Star-Sports-1.png" group-title="IPTV-1", Star Sports 1
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FK9HKqkw/Star-Sports-2.png" group-title="IPTV-1", Star Sports 2 
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxp2xRKd/Star-Sports-3.png" group-title="IPTV-1", Star Sports 3
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQB6G4X2/Star-Select-HD-1.png" group-title="IPTV-1", Star Sports Select 1
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwCw86QZ/Star-Select-HD-2.png" group-title="IPTV-1", Star Sports Select 2
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Lsx68kGc/PTV-Sports.png" group-title="IPTV-1", PTV Sports
+http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRcCFRnm/Somoy-TV.png" group-title="IPTV-1", Somoy TV
-https://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk9KM2Lq/Independent.png" group-title="IPTV-1", Independent
-https://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="IPTV-1", Channel I
-https://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xqsjj9Zs/180px-ATN-Bangla-svg.png" group-title="IPTV-1", ATN Bangla
-https://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/432mPk48/image.png" group-title="IPTV-1", Masranga
-https://tv.dugdugilive.com:8080/0ne$ky23/Massranga/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Massranga/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZYTsmq1/Jamuna-TV.png" group-title="IPTV-1", Jamuna TV
-https://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh7Tp0FV/Bangla-Vision.png" group-title="IPTV-1", Bangla Vision
-https://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6V4vKNz/300px-svg.png" group-title="IPTV-1", Boishakhi TV
 https://livess.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLxV4Zt4/image.png" group-title="IPTV-1", Channel 24
-https://tv.dugdugilive.com:8080/0ne$ky23/Channel24/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYmp2HJT/220px-svg.png" group-title="IPTV-1", BTV
-https://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htdBwk0y/image.png" group-title="IPTV-1", BTV WORLD
-https://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LSqCFGG/200px-Ekushey-Television-Logo-svg.png" group-title="IPTV-1", Ekushey TV
-https://tv.basnetbd.com:8080/roarzone/bk/65/index.m3u8?token=956d0dd2b1f629e313e50308f2aeb12d65f2e08d-7ff5a24c30d7637f05b0e38bf4f5709b-1724879718-1724858118
+http://tv.basnetbd.com:8080/roarzone/bk/65/index.m3u8?token=956d0dd2b1f629e313e50308f2aeb12d65f2e08d-7ff5a24c30d7637f05b0e38bf4f5709b-1724879718-1724858118
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKfg4x6H/300px-svg.png" group-title="IPTV-1", Nagorik TV HD
-https://tv.basnetbd.com:8080/roarzone/bk/59/index.m3u8?token=f8adaac7f537b772d7a9c5be63331d7582e93eb9-1ef8e410876a22a59b45b32b3dc6cee1-1724879881-1724858281
+http://tv.basnetbd.com:8080/roarzone/bk/59/index.m3u8?token=f8adaac7f537b772d7a9c5be63331d7582e93eb9-1ef8e410876a22a59b45b32b3dc6cee1-1724879881-1724858281
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFpsVXP0/100px-Asian-TV-Logo-svg.png" group-title="IPTV-1", Asian TV
 https://mtlivestream.com/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjGch0YK/220px.jpg" group-title="IPTV-1", Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzwNfGnC/300px-svg.png" group-title="IPTV-1", Channel 9
-https://tv.basnetbd.com:8080/roarzone/bk/4/index.m3u8?token=8cae4aca174a0e96f236fc24ee4030011a829a11-c4d675dbc53cf4bc67abaae0c12930af-1724879987-1724858387
+http://tv.basnetbd.com:8080/roarzone/bk/4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYBm29g9/360px-DBC-News-logo.png" group-title="IPTV-1", DBC News
-https://tv.dugdugilive.com:8080/0ne$ky23/DBC/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/DBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RF4YVyxT/360px.jpg" group-title="IPTV-1", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrkQBSt5/200px.png" group-title="IPTV-1", Desh TV
-https://tv.dugdugilive.com:8080/0ne$ky23/DeshTV/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/DeshTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJGHHRPt/170px.jpg" group-title="IPTV-1", Duronto TV
-https://tv.basnetbd.com:8080/roarzone/bk/10/index.m3u8?token=58b5f1b6cfa0c918b331d7873a196482e3474536-45a3750bbc217dce7d51c0f022ddadcf-1724880149-1724858549
+http://tv.basnetbd.com:8080/roarzone/bk/10/index.m3u8?token=58b5f1b6cfa0c918b331d7873a196482e3474536-45a3750bbc217dce7d51c0f022ddadcf-1724880149-1724858549
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65zwFQvv/Ekattor-TV.png" group-title="IPTV-1", Ekattor TV
-https://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkkxSJDS/170px-svg.png" group-title="IPTV-1", Mohona TV
-https://tv.dugdugilive.com:8080/0ne$ky23/Mohona/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Mohona/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYL3fZN6/380px.png" group-title="IPTV-1", Ananda TV
-https://tv.dugdugilive.com:8080/0ne$ky23/AnandaTV/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/AnandaTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLwy9PcR/360px-svg.png" group-title="IPTV-1", My TV
+http://tv.dugdugilive.com:8080/0ne$ky23/mytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8FYmPKf/image.jpg" group-title="IPTV-1", News 24
-https://tv.dugdugilive.com:8080/0ne$ky23/News24/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/News24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xCd1NsKK/moviebangla.jpg" group-title="IPTV-1", Movie Bangla
-https://alvetv.com/moviebanglatv/8080/index.m3u8
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF9Gp5CF/300px-svg.png" group-title="IPTV-1", N TV
-https://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSrq4qHq/300px-svg.png" group-title="IPTV-1", R TV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXhm8JpD/image.png" group-title="IPTV-1", SA TV
-https://tv.dugdugilive.com:8080/0ne$ky23/satv/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/satv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvR2Kxfz/180px-svg.png" group-title="IPTV-1", Songsod TV
-https://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT0PnL5x/220px.png" group-title="IPTV-1", Ehkon TV
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp931QGJ/100px-svg.png" group-title="IPTV-1", ATN News
-https://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3wkJM2M/200px-svg.png" group-title="IPTV-1", G TV
-https://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58KJbk.png" group-title="IPTV-1", Deshi TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
-
+http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
