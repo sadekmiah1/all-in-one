@@ -2,6 +2,18 @@
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=854x480
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
+
+#EXTINF:-1 tvg-logo="" group-title="TV-1", S Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", 9XM
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Music India
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Balle Balle HD
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", MTV Beats
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
+
 #EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://i.ibb.co/Hr1Pprs/Picsart-23-06-07-12-07-02-565.png",9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png",MUSIC INDIA
