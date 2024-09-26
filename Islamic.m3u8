@@ -2,6 +2,14 @@
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=854x480
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
+
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=X-aO7iMuxEadap2MTzkvTA
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Iqra Bangla
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8?nimblesessionid=361071977
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Islam Channel
+https://1gradgmttgy41hqbifaaueqy.wslivehls.com/pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8?wsSession=60eb0ff80cf33c983a734c7c-172730131133711&wsIPSercert=e8cbdc57c20ea835015f47a293b2dccd&wsiphost=local&wsBindIP=1
+
 #EXTINF:-1 group-title="RELIGION CHANNELS" tvg-logo="https://iqra.tv/wp-content/uploads/2022/07/Iqra-Logo-PNG.jpg",IQRA BANGLA
 http://208.86.19.13:81/507.stream/index.m3u8
 #EXTINF:-1 group-title="RELIGION CHANNELS" tvg-logo="https://iqra.tv/wp-content/uploads/2022/07/Iqra-Logo-PNG.jpg",IQRA BANGLA
