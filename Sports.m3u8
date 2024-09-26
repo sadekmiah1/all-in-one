@@ -2,6 +2,26 @@
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=854x480
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
+
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", GTV
+http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", T-Sports - 1
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-01
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", Tsports - 2
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", PTV Sports
+http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 1
+https://api.iptvbd.xyz/api/sony_ten1_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 2
+https://api.iptvbd.xyz/api/sony_ten2_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 3
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 5
+http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzhvcPYc/T-Sports.png" group-title="TV-1", T Sports
