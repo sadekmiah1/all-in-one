@@ -2,6 +2,32 @@
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=854x480
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
+
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Animal Planet HD
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Discovery HD
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Discovery Science
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Discovery Turbo
+https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Nat Geo
+https://cdn1.pishow.tv/live/252/252_0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", TLC
+https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_14.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Xplore TV
+https://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", France 24
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/live-orgin/fr24.stream/chunks
+#EXTINF:-1 tvg-logo="" group-title="TV-1", WION
+https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
 #EXTINF:-1 group-title="INFOTAINMENT CHANNELS" tvg-logo="http://i.ibb.co/j31HwYM/Picsart-23-06-28-20-15-00-522.png",ANIMAL PLANET HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg",CGTN DOCUMENTARY
