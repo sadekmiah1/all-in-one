@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony TV
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony TV (1920x1080)
 https://api.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Sab
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Sab (1920x1080)
 https://api.iptvbd.xyz/api/sony_sab_hd.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Wah
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Wah (1920x1080)
 https://api.iptvbd.xyz/api/sony_wah.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Kal
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Kal (1920x1080)
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_4300k.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Zee TV HD
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Zee TV HD (1920x1080)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Anmol
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Anmol (1920x1080)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1-audio_208482_und=208000-video=2137600.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Plus
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Plus (1920x1080)
 http://103.84.57.155:8000/play/a080/index.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="TV-1", &Tv HD
+#EXTINF:-1 tvg-logo="" group-title="TV-1", &Tv HD (1920x1080)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Max
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Max (1920x1080)
 https://api.iptvbd.xyz/api/set_max_hd.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Max 2
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Max 2 (1920x1080)
 https://api.iptvbd.xyz/api/sony_max_2.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Cinema HD
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Cinema HD (1920x1080)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Bollywood
