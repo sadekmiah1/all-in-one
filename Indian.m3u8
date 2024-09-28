@@ -13,122 +13,122 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist_4300k.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Anmol
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1-audio_208482_und=208000-video=2137600.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Plus
 http://103.84.57.155:8000/play/a080/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", &Tv HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Max
 https://api.iptvbd.xyz/api/set_max_hd.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Max 2
 https://api.iptvbd.xyz/api/sony_max_2.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Bollywood
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood1/default/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Action
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1-audio_208482_und=208000-video=2137600.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Gold
 http://103.84.57.155:8000/play/a09m/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Gold Thrills
 http://103.84.57.155:8000/play/a0c7/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", &PicturesHD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictures.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", B4U Movies
 https://api.iptvbd.xyz/api/b4u_movies.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee News
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-Zee_News/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/700348dd-988e-4574-b3b9-4918de8e383a/ea43006c-0ec5-439e-becd-8e214b8bd341/3.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Aaj Thak
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", NDTV
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_1080p@4.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies Select HD
 http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Pix
 https://api.iptvbd.xyz/api/sony_pix_hd.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Zee_TV_HD_2017.svg/revision/latest/scale-to-width-down/250?cb=20210514173308",ZEE TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png",ZEE ANMOL
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png",AND TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Zing_2022.svg/revision/latest?cb=20220525063636",ZING
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing1/default/zing.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Zeetamil_new.png",ZEE TAMIL
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil1/default/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Zee_24_ghanta.png/revision/latest?cb=20210509174741",ZEE 24 GHONTA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/DD-National_2022.png/revision/latest?cb=20230610222358",DD NATIONAL
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="MOVIES CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430",BFLIX MOVIES
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="MOVIES CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207",ZEE ACTION
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="MOVIES CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest?cb=20191222192752",ZEE CINEMA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema1/default/zeecinema.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="MOVIES CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest?cb=20191222192752",ZEE CINEMA HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="MOVIES CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Zee_Anmol_Cinema.png/revision/latest?cb=20210826143243",ZEE ANMOL CINEMA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/zeeanmolcinema.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="MOVIES CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg",AND PICTURES
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures1/default/andpictures.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="MOVIES CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253",AND PICTURES HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictures.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="MOVIES CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Zeecinemaluenglish.png",ZEE CINEMALU
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="MOVIES CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Zee_Bollywood.jpg",ZEE BOLLYWOOD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood1/default/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="MOVIES CHANNELS" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",SHEEMAROO BOLLYWOOD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="MOVIES CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Bollywood_Clasic_%282018%29.svg/revision/latest?cb=20181116224354",CLASSIC BOLLYWOOD
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="MOVIES CHANNELS" tvg-logo="https://i.ibb.co/YNGyQJR/Picsart-23-06-25-22-19-02-657.png",BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 group-title="MOVIES CHANNELS" tvg-logo="https://i.ibb.co/rdZ16x7/Picsart-23-07-16-01-35-39-866.png",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
