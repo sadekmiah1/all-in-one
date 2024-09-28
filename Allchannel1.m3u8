@@ -1,7 +1,5 @@
 #EXTM3U 
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=854x480
-#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:BANDWIDTH=30000,RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzhvcPYc/T-Sports.png" group-title="TV-1", T Sports
