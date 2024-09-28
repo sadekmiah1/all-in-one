@@ -1,4 +1,4 @@
-#EXTM3U 
+
 #EXT-X-STREAM-INF:BANDWIDTH=30000,RESOLUTION=1920x1080
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Cartoon Network
