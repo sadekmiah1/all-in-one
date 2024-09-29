@@ -1,71 +1,31 @@
 
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
+#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="TV-1", S Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="" group-title="TV-1", 9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Balle Balle HD
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="" group-title="TV-1", MTV Beats
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://i.ibb.co/Hr1Pprs/Picsart-23-06-07-12-07-02-565.png",9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png",MUSIC INDIA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png",SANGEET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://i.ibb.co/D5gRqdk/Picsart-23-06-07-12-04-36-664.png",9X TASHAN
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png",9X JHAKAAS
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/579/872/non_2x/music-symbols-logo-and-icons-template-vector.jpg",HINDI HITS HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Kappa_tv_Channel_Logo.png",KAPPA TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sangeet_Bhojpuri.jpg",SANGEET BHOJPURI
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/V2BEATTV.png",V2BEAT
 https://de1se01.v2beat.live/playlist.m3u8
 
