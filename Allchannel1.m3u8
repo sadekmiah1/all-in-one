@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
