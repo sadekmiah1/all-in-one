@@ -1,5 +1,3 @@
-#EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=2048px1080p
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony TV 
 https://api.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Sab 
