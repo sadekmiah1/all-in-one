@@ -1,8 +1,4 @@
-#EXT-X-STREAM-INF:RESOLUTION=1280x720pixels
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080pixels
-#EXT-X-STREAM-INF:RESOLUTION=2048x1080pixels
-#EXT-X-STREAM-INF:RESOLUTION=3840x2160pixels
-#EXT-X-STREAM-INF:RESOLUTION=7680x4320pixels
+
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony TV 
 https://api.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
