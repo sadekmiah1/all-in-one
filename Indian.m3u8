@@ -1,30 +1,29 @@
 
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,3840 x 2160
+#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony TV 
 https://api.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
 
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,3840 x 2160
+#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Sab 
 https://api.iptvbd.xyz/api/sony_sab_hd.m3u8
 
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,3840 x 2160
+#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Wah 
 https://api.iptvbd.xyz/api/sony_wah.m3u8
 
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,3840 x 2160
+#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Kal 
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_4300k.m3u8
 
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,3840 x 2160
+#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee TV HD 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8
 
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,3840 x 2160
+#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Anmol 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1-audio_208482_und=208000-video=2137600.m3u8
 
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
+#EXT-X-STREAM-INF:RESOLUTION=3840x2160
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Plus 
 http://103.84.57.155:8000/play/a080/index.m3u8
 
