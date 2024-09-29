@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", BTV
 http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", ATN Bangla
