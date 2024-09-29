@@ -1,87 +1,36 @@
-
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v2PQKX/Zee-Bangla-HD.png" group-title="TV-1", Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8ctyNdTW/Zee-Bangla-Cinema.png" group-title="TV-1", Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv9kBsrP/Sony-Aath.png" group-title="TV-1", Sony Aath
 https://api.iptvbd.xyz/api/sony_aath.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4xcPv5j/Colors-Bangla-HD.png" group-title="TV-1", Colors HD Bangla
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtpDWpzN/Enterr10.png" group-title="TV-1", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Abp Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee 24 Ghonta
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/24ghanta-audio_208482_und=208000-video=2137600.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="" group-title="TV-1", News 18 Bangla
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/cb553d1e786c648a99d43d62d3ef41a2d22402fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac5a243e517e9b9bb265d980027ee78b547535b17a1f51fe0f15d135257bcbec1c079d72e42a555db84b2a066389bf08a82254d88758837a348aac883724745a569c405de7f25aa0f9e55c10db65a9d36772aa178368ff68fbad62a9b5ad05ca1ad754ce2eafe393ab48c44fb4bb57d814eb357338681dcbc3111bae2c2b4c8fe9c5fd25083fd4c4548e91de7d1ccc2b624ff1fe84946af318cf9d24bb9056d130b5409e398667ab46f2af1ee0e58cd64c4536b3d71b4f13e0b4f0c4ab6e738a6ff5f4bd863364cfa24f3855df3789717b76c0b48b3381c01e99f971d5e5394d6990c005bd94a086e9bf9505cd769a89a4ea482824540d0c8252b5892d8a79af1f86fa53700c0314d7df3fa3abd644396e4387fa2ff21a09bcdd849b9f437bfd69155ee777ca196248c9276768ea3df3f86f399147eae487dd498f539bb70ebdada4390703b6f36d9147ed69/35/1920x1080_2805000/index.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv9kBsrP/Sony-Aath.png" group-title="IPTV-1", Sony Aath
 http://103.143.243.74/hls/Sony_Aath.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v2PQKX/Zee-Bangla-HD.png" group-title="IPTV-1", Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4xcPv5j/Colors-Bangla-HD.png" group-title="IPTV-1", Colors Bangla HD
 https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnq89LL/Star-Jalsha.png" group-title="IPTV-1", Star Jalsha 
 http://217.20.112.199/starjalshahd/index.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8ctyNdTW/Zee-Bangla-Cinema.png" group-title="IPTV-1", Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZjgSZxP/Jalsha-Movies-HD.png" group-title="IPTV-1", Jalsha Movies HD
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNzzwJ9R/Colors-Bangla-Cinema.png" group-title="IPTV-1", Colores Bangla Cinema
 http://103.143.243.74/hls/colore-bangla-cinema.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/BQ36Nv5w/Sun-Bangla.png" group-title="IPTV-1", Sun Bangla
 http://103.143.243.74/hls/sunbangla.m3u8
-
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtpDWpzN/Enterr10.png" group-title="IPTV-1", Enterr10
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
