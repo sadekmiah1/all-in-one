@@ -1,4 +1,4 @@
-#EXT-X-STREAM-INF:-BANDWIDTH=1000000,RESOLUTION=2048x1080
+#EXT-X-STREAM-INF:-RESOLUTION=2048x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", S Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", 9XM
