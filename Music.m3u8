@@ -2,8 +2,6 @@
 #EXT-X-STREAM-INF:RESOLUTION=720 x 480,
 #EXT-X-STREAM-INF:RESOLUTION=1280 x 720,
 #EXT-X-STREAM-INF:RESOLUTION=1920 x 1080,
-#EXT-X-STREAM-INF:RESOLUTION=2048 x 1080,
-#EXT-X-STREAM-INF:RESOLUTION=3840 x 2160,
 #EXTINF:-1 tvg-logo="" group-title="TV-1", S Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", 9XM
