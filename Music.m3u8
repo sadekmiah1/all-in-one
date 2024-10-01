@@ -1,5 +1,5 @@
-https://cdnjs.cloudflare.com/ajax/libs/video.js/8.0.4/video.min.js
 #EXTM3U
+https://cdnjs.cloudflare.com/ajax/libs/video.js/8.0.4/video.min.js
 #EXT-X-STREAM-INF:RESOLUTION=720 x 480,
 #EXT-X-STREAM-INF:RESOLUTION=1280 x 720,
 #EXT-X-STREAM-INF:RESOLUTION=1920 x 1080,
