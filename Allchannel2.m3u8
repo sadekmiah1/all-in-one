@@ -19,9 +19,9 @@ https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/P98mF2r/20240815-181318.png",Bangla TV
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/lRpkGHj.png",Ekushey TV
-https://ekusheyserver.com/etvlivesn.m3u8
+https://cdn.ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/GxHV7q5/IMG-20240126-122220.png",Ekushey TV
-http://cdn.210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="YOUTUBE  CHANNELS" tvg-logo="https://i.ibb.co/pzwWtLg/IMG-20240320-114517.jpg",Desh TV
 https://cdn.ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 #EXTINF:-1 group-title="YOUTUBE  CHANNELS" tvg-logo="https://i.ibb.co/BwMpnr3/IMG-20240129-063118.jpg",Ekhon Tv
@@ -33,13 +33,13 @@ https://cdn.livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8?v
 #EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/D7sMcgj/Picsart-23-06-07-11-27-15-922.png",ATN BANGLA
 https://cdn.livess.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8?v=1
 #EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/59MpX6W/Picsart-23-06-07-11-22-47-756.png",BANGLAVISION
-https://livess.ncare.live/live-orgin/banglav000.stream/playlist.m3u8?v=1
+https://cdn.livess.ncare.live/live-orgin/banglav000.stream/playlist.m3u8?v=1
 #EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/w457MWk/Picsart-23-06-07-11-22-28-998.png",BOISHAKHI TV
-https://livess.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8?v=1
+https://cdn.livess.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8?v=1
 #EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/tQtY9CG/Picsart-23-06-07-11-18-32-725.png",DBC NEWS
-https://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8?v=1
+https://cdn.livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8?v=1
 #EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/JmqQ6p4/Picsart-23-06-07-11-16-53-534.png",GREEN TV
-https://livess.ncare.live/live-orgin/greentv.stream/playlist.m3u8?v=1
+https://api.livess.ncare.live/live-orgin/greentv.stream/playlist.m3u8?v=1
 #EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/7KyTYrM/Picsart-23-06-07-11-13-27-854.png",JAMUNA TV
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8?v=1
 #EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/Tr1FsLp/Picsart-23-06-07-11-09-56-678.png",MOVIE BANGLA
