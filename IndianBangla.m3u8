@@ -1,8 +1,6 @@
-https://cdnjs.cloudflare.com/ajax/libs/video.js/8.0.4/video.min.js
-#EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=720 x 480,
-#EXT-X-STREAM-INF:RESOLUTION=1280 x 720,
-#EXT-X-STREAM-INF:RESOLUTION=1920 x 1080,
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v2PQKX/Zee-Bangla-HD.png" group-title="TV-1", Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8ctyNdTW/Zee-Bangla-Cinema.png" group-title="TV-1", Zee Bangla Cinema
