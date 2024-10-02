@@ -1,8 +1,6 @@
-https://cdnjs.cloudflare.com/ajax/libs/video.js/8.0.4/video.min.js
-#EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=720 x 480,
-#EXT-X-STREAM-INF:RESOLUTION=1280 x 720,
-#EXT-X-STREAM-INF:RESOLUTION=1920 x 1080,
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzhvcPYc/T-Sports.png" group-title="TV-1", T Sports
