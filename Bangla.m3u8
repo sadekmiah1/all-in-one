@@ -1,8 +1,6 @@
-https://cdnjs.cloudflare.com/ajax/libs/video.js/8.0.4/video.min.js
-#EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=720 x 480,
-#EXT-X-STREAM-INF:RESOLUTION=1280 x 720,
-#EXT-X-STREAM-INF:RESOLUTION=1920 x 1080,
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", BTV
 http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", ATN Bangla
