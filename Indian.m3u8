@@ -1,4 +1,5 @@
 #EXTM3U 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=256bit
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony TV 
 https://api.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Sab 
