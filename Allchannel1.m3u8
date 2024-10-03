@@ -3,13 +3,10 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10kb
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="IPTV-1", GTV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10kb
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzhvcPYc/T-Sports.png" group-title="TV-1", T Sports
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10kb
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z56Q3ppt/Sony-Sports-Ten-1.png" group-title="IPTV-1", Sony Sports Ten1
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10kb
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wxP4G0kY/Sony-Sports-Ten-2.png" group-title="IPTV-1", Sony Sports Ten 2
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJDrxZg/Sony-Sports-Ten-3.png" group-title="IPTV-1", Sony Sports Ten 3
