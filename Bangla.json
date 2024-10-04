@@ -1,0 +1,18 @@
+[
+ { "name": "BTV", "logo": "path/to/logo2.png", "streamUrl": "http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8" },
+ { "name": "ATN Bangla", "logo": "path/to/logo2.png", "streamUrl": "https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8" }, 
+ { "name": "Ekushey TV", "logo": "path/to/logo2.png", "streamUrl": "http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/tracks-v1a1/mono.m3u8" },
+ { "name": "NTV", "logo": "path/to/logo2.png", "streamUrl": "http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8" },
+ { "name": "RTV", "logo": "path/to/logo2.png", "streamUrl": "http://tv.dugdugilive.com:8080/0ne$ky23/RTV/tracks-v1a1/mono.m3u8" },
+ { "name": "Channel I", "logo": "path/to/logo2.png", "streamUrl": "http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/tracks-v1a1/mono.m3u8" },
+ { "name": "Bangla Vision HD", "logo": "path/to/logo2.png", "streamUrl": "http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/tracks-v1a1/mono.m3u8" },
+ { "name": "SATV", "logo": "path/to/logo2.png", "streamUrl": "http://tv.dugdugilive.com:8080/0ne$ky23/satv/tracks-v1a1/mono.m3u8" },
+ { "name": "Asian TV", "logo": "path/to/logo2.png", "streamUrl": "https://mtlivestream.com/asian/ytlive/index.m3u8" },
+ { "name": "Deepto TV HD", "logo": "path/to/logo2.png", "streamUrl": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8" },
+ { "name": "Bangla TV", "logo": "path/to/logo2.png", "streamUrl": "https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8?sessId=2205357" },
+ { "name": "Somoy TV", "logo": "path/to/logo2.png", "streamUrl": "http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8" },
+ { "name": "ATN News", "logo": "path/to/logo2.png", "streamUrl": "http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8" },
+ { "name": "News 24", "logo": "path/to/logo2.png", "streamUrl": "http://tv.dugdugilive.com:8080/0ne$ky23/News24/tracks-v1a1/mono.m3u8" },
+ { "name": "Channel 24 HD", "logo": "path/to/logo2.png", "streamUrl": "http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/tracks-v1a1/mono.m3u8" },
+ { "name": "DBC News", "logo": "path/to/logo2.png", "streamUrl": "https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8" }
+]
