@@ -1,9 +1,14 @@
 [
     { "name": "S Bangla", "logo": "path/to/logo1.png", "streamUrl": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8" },
-    { "name": "9XM", "logo": "path/to/logo2.png", "streamUrl": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8" },
+
+    { "name": "9XM", "logo": "path/to/logo2.png", "streamUrl": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8" },
+
     { "name": "Music India", "logo": "path/to/logo2.png", "streamUrl": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8" },
+    
     { "name": "Balle Balle HD", "logo": "path/to/logo2.png", "streamUrl": "https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8" },
+    
     { "name": "Beats", "logo": "path/to/logo2.png", "streamUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8" },
+    
     { "name": "Channel 2", "logo": "path/to/logo2.png", "streamUrl": "STREAM_URL_2" },
     { "name": "Channel 2", "logo": "path/to/logo2.png", "streamUrl": "STREAM_URL_2" },
     { "name": "Channel 2", "logo": "path/to/logo2.png", "streamUrl": "STREAM_URL_2" },
