@@ -1,8 +1,4 @@
 #EXTM3U 
-#EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:BPROGRAM-ID=1,BANDWIDTH=100 * 1024,RESOLUTION=854x480
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=200 * 1024,RESOLUTION=1280x720
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300 * 1024,RESOLUTION=1920x1080
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=X-aO7iMuxEadap2MTzkvTA
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Iqra Bangla
